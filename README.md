@@ -35,3 +35,12 @@ e.g
 
 ## Shortcut for showing suggestion from html css support extension
 `ctrl + space key`
+
+## CSS
+### Type of connecting css 
+```html
+- In line
+- External
+- Internal
+
+```
