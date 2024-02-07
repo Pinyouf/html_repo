@@ -1,0 +1,18 @@
+.classic_button{
+    background-color: rgb(47, 130, 247);
+    border-radius: 10px; 
+    padding: 10px 30px; 
+    font-size: 16px;
+    color: white;
+    border: 0px;
+    
+
+}
+.classic_button:hover{
+    background-color: rgb(21, 147, 105);
+    color: black;
+    padding: 10px 30px;
+    font-size: 16px;
+    border: 0px;
+    cursor: pointer;
+}
