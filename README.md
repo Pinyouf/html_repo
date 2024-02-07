@@ -38,9 +38,8 @@ e.g
 
 ## CSS
 ### Type of connecting css 
-```html
+
 - In line
 - External
 - Internal
 
-```
